@@ -1,0 +1,7 @@
+demo code for CVPR 2013 paper
+"Inductive Hashing on Manifolds", Fumin Shen, Chunhua Shen, Qinfeng Shi, Anton van den Hengel, Zhenmin Tang.
+
+See 'demo_IMH.m' for a start.
+
+Any questions are welcome. Feel free to drop me a message via fumin.shen@gmail.com. Also, I politely ask
+you to cite my CVPR'13 paper in your publications.
