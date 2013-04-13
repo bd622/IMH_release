@@ -1,4 +1,5 @@
 function [EmbeddingS, W_RS_nmlz, sigma] = InducH(S, R, options)
+% function for IMH-LEH in the paper
 
 r = options.maxbits;
 %% constuct graph on  S
